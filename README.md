@@ -45,7 +45,7 @@ Model dievaluasi menggunakan tiga metrik utama:
 ## Struktur File
 
 - `Capstone Project_Module3_Machine Learning_Rebecca Deswita.ipynb`: Notebook utama yang berisi semua tahapan analisis.
-- `models/`: File model pickle
+- `catboost.pkl`: File model pickle
 - `README.md`: Dokumentasi proyek (file ini).
 
 ## Tools & Library
